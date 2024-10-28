@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instituto de Formación Artística AveZul</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #b2e0f9; /* Fondo celeste */
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #004d7a;
+            color: white;
+        }
+        h1 {
+            margin: 0;
+        }
+        . section {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 100%;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            margin-top: 10px;
+        }
+        input, textarea, select {
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .gallery {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .gallery img {
+            width: 48%;
+            margin: 1%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Instituto de Formación Artística AveZul</h1>
+</header>
+
+<div class="section">
+    <h2>¿Qué es la Música?</h2>
+    <img src="https://example.com/musica.jpg" alt="Qué es la Música">
+    <p>La música es un arte que utiliza el sonido como medio de expresión. Se compone de elementos como el ritmo, la melodía y la armonía, y es capaz de evocar emociones y contar historias a través de sus diferentes géneros y estilos.</p>
+</div>
+
+<div class="section">
+    <h2>Historia de la Música</h2>
+    <img src="https://example.com/historia_musica.jpg" alt="Historia de la Música">
+    <p>La historia de la música se remonta a tiempos prehistóricos, donde los sonidos y ritmos eran utilizados en rituales y celebraciones. A lo largo de los siglos, la música ha evolucionado y se ha diversificado, reflejando la cultura y la sociedad de cada época 
+    El rigen de la música no ha podido ser determinada Se estima que comenzo en la prehistoria de la humanidad a partir de ritos religiosos 
+    La danza y el cato perecen haber estado desde el principio asociados a la comprensión del mundo formaban parte de manifestación 
+    religiosas o chamanicas, rituales de sanacion,cantos de batalla o de cacería o bailes para atraer la lluvia 
+    El instrumento más antiguo encontrado hasta la fecha es la llamada flauta de Divje Babe 
+    La primera canción de la que se tiene registro es un fragmento musical escrito en cuneiforme en sumeria en el año 1400 a.C. 
+    </p>
+
+<div class="section">
+    <h2>Información sobre la Academia AveZul</h2>
+    <p>El Instituto de Formación Artística AveZul se dedica a brindar educación de alta calidad en diversas disciplinas artísticas. Contamos con un equipo de profesionales altamente capacitados que te ayudarán a desarrollar tus habilidades y talentos en un ambiente creativo y estimulante. </p>
+    
+    <div class="gallery">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-5IvbGAZevn5_Gl0GEcpz32ENDtHkQqTFUFhLPWSWb3Ggz3I1yfYR65buIY34-cW_9o&usqp=CAU"style="width: 200px; height: 200px;"alt="Imagen 2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUAsqbZaP10IYjNM9A8BbiiQro3Ebc6NKDA&s"style="width: 200px; height: 200px;" alt="Imagen 3">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tPAuZTZLhwSeh6vlXfjF60yzyi3NGds51IioVK8yOcRVbUb_JUg0GO_UHIIfzWYK4rs&usqp=CAU"style="width: 200px; height: 200px;" alt="Imagen 4">
+    </div>
+</div>
+
+<div class="section">
+    <h2>Inscripciones</h2>
+    <p>¡Inscríbete en nuestras clases y comienza tu viaje artístico!</p>
+    <form action="#" method="POST">
+        <label for="nombre">Nombre Completo:</label>
+        <input type="text" id="nombre" name="nombre" required>
+
+        <label for="email">Correo Electrónico:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="telefono">Teléfono:</label>
+        <input type="tel" id="telefono" name="telefono" required>
+
+        <label for="curso">Curso que deseas tomar:</label>
+        <select id="curso" name="curso" required>
+            <option value="artes_visuales">Artes Visuales</option>
+            <option value="musica">Música</option>
+            <option value="teatro">Teatro</option>
+            <option value="danza">Danza</option>
+        </select>
+
+        <label for="mensaje">Comentarios:</label>
+        <textarea id="mensaje" name="mensaje" rows="4"></textarea>
+
+        <button type="submit">Inscribirse</button>
+    </form>
+</div>

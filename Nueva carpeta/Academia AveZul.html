@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <header class="header">
+        <title>Imagen a la derecha</title>
+        <img src="https://www.boliviayp.com/img/bo/h/1649099735-99-instituto-de-formacion-profesional-de-musicos-avezul.jpg" width="300" height="150">
+		<div class="menu container">
+			<input type="checkbox" id="menu">
+			<labe for="menu">
+            </labe>
+            <nav class="navbar">
+            
+				<u1>
+					<li><a href="#">Inicio</a></li>
+                    <li><a href="#">Horario</a></li>
+                    <li><a href="#">Inscripciones</a></li>
+                    <li><a href="#">Contactos</a></li>
+           </div>
+    <div class="header-content container">
+    	<h1> Institucion de Formacion Artistica "AveZul"</h1>
+    	<P>
+    		¡Bienvenidos a la Academia AveZul Música! 🎶
+              Estamos encantados de tenerte aquí, donde la pasión por la música se convierte en talento y creatividad. En nuestra academia, te ofrecemos un espacio para explorar, aprender y desarrollar tus habilidades musicales, sin importar tu nivel de experiencia.
+    	</P>
+    	<a href="#" class="btn-1">Informacion</a>
+    </div>
+    </header>
+    <section class="Musica">
+       <img class="Musica-img">
+    	<div class="musica-content container">
+    		<h2>¿Que es la musica?</h2>
+    		<p class="txt-p">
+    			La música es una forma de arte que utiliza sonidos y silencios organizados en el tiempo. Se compone de elementos como melodía, armonía, ritmo y timbre, y puede ser vocal, instrumental o una combinación de ambas. La música tiene el poder de evocar emociones, contar historias y conectar a las personas, trascendiendo barreras culturales y lingüísticas.
+            </p>
+            <div class="Musica-group">
+            	<div class="Musica-1">
+            		<img src="https://www.melomanodigital.com/wp-content/uploads/2022/10/EEMM-288-3.jpg" width=" 300" height="200" alt="">
+            		<h3>Historia de la musica</h3>
+            		<p>
+            			La historia de la música es un reflejo de la experiencia humana, una forma de expresión que ha evolucionado junto con la sociedad. Cada época ha aportado nuevos matices y enfoques, enriqueciendo el vasto panorama musical que conocemos hoy. Desde los sonidos primitivos hasta la música global contemporánea, la música continúa siendo una fuerza poderosa que une a las personas y enriquece nuestras vidas            	
+                     </div>
+            	<div class="Musica-content">
+            <div class="Musica-2">
+            		<img src="https://i.imgur.com/n5z385s.jpeg" width="300" height="200" alt="">
+            		<h3>Tecnica Vocal para cantar</h3>
+            		<p>
+            			a técnica vocal es un conjunto de habilidades y prácticas que permiten a un cantante utilizar su voz de manera efectiva, saludable y expresiva. A continuación, se presentan los componentes esenciales de la técnica vocal, cada uno de los cuales es crucial para el desarrollo y el rendimiento vocal:
+            	</div>
+            	<div class="Musica-content">
+            <div class="Musica-3">
+                <center>
+            		<img src="https://i.imgur.com/HbaWGew.jpeg" width="300" height="200"  alt="">
+            		<h3><center>Istrumentos</center></h3>
+            		<p>
+            		 Cada instrumento tiene su propio conjunto de habilidades y características, lo que enriquece el panorama musical y permite una amplia gama de expresiones artísticas. La práctica constante y el estudio de la técnica son fundamentales para desarrollar estas habilidades y maximizar el potencial del instrumento.
+                     </p>
+                 </center>
+            	</div>
+            </div>
+            <a href="#"class="btn-1">Informacion</a>
+        </div>
+</section>
+ <main class="services">
+ 	<div class="services-content container">
+ 		<h2> "AveZul" </h2>
+ 		<div class="services-group">
+ 			<div class="services-1">
+ 				<img src="https://i.imgur.com/c9N48kz.jpeg" width="300" height="200" alt="">
+ 				<h3>Claces de Tuba</h3>
+ 			</div>
+ 		    <div class="services-2">
+ 				<img src="https://i.imgur.com/ZefXY1N.jpeg" width="300" height="200" alt="">
+ 				<h3>clases de Acordeon</h3>
+ 			</div>
+ 			<div class="services-3">
+ 				<img src="https://i.imgur.com/Kr9YWSm.jpeg" width="300" height="200" alt="">
+ 				<h3>clases de Guitarra 3</h3>
+ 			</div>
+ 		</div>
+ 		<p>
+ 			En la Academia Avezul, ofrecemos clases de cualquier Instrumento, Espara todos los niveles principiantes
+ 		</p>
+ 		<a href="#" class="btn-1">Informacion</a>
+ 	</div>
+ </main>
+ <section class="general">
+ 	<div class="general-1">
+         <h2>Retroalimentacion profesional</h2>
+         <p>
+         	Al finalizar un programa de estudio en una academia de música y cumplir con los requisitos establecidos, puedes obtener un certificado de músico que respalde tus habilidades y conocimientos. Investigar diferentes academias y sus programas te ayudará a elegir la mejor opción para tus objetivos musicales
+        </p>
+        <a href="#" class="btn-1"> Informacion</a>
+  	</div>
+  	<div class="grneral-2"></div>
+
+ 	
+ </section>
+  <section class="general">
+ 	<div class="general-3"></div> 
+           <div class="general-1">
+
+         <h2>Concursos</h2>
+         <p>
+         	Los concursos en academias de música son una excelente manera de incentivar el crecimiento personal y musical de los estudiantes. Además de mejorar sus habilidades, les permiten mostrar su talento y recibir reconocimiento por su dedicación y esfuerzo. Si estás en una academia de música, participar en estos eventos puede ser una experiencia enriquecedora y motivadora
+
+        </p>
+        <a href="#" class="btn-1"> Informacion</a>
+  	</div>
+  	
+ </section>
+ <section class="blog container">
+ 	<h2>Horarios</h2>
+       <P>
+           Descubre las diferentes opciones de clases y horarios disponibles. Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos</p>
+ 	<div class="blog-content">
+ 		<div class="blog-1">
+ 			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmef9eHLUglWCRkuc7xBCx8PAh_dwQfaDB39IV76Nrkka03sE5KDWAUp-NKW991WJA7Nw&usqp=CAU" alt="">
+ 			<h3>LUNES</h3>
+ 			<p>
+ 				°8:00 a 12:00
+                            °15:00 a 19:00
+     			</p>
+ 		</div>
+ 		<div class="blog-1">
+ 			<img src="https://i.imgur.com/J96D9Q0.jpeg" width="150" height="130">
+ 			<h3>MIERCOLES</h3>
+ 			<p>
+ 				°8:00 a 12:00
+                            °15:00 a 19:00
+ 			</p>
+ 		</div>
+ 		<div class="blog-1">
+ 			<img src="https://i.imgur.com/J9X9Vc1.jpeg" width="150" height="130">
+ 			<h3>VIERNES</h3>
+ 			<p>
+ 				°15:00 a 19:00
+ 			</p>
+ 		</div>
+ 		</div>
+ 		<a href="#" class="btn-1">Imformacion</a>
+              <h2>Inscripción</h2>
+    <p>Completa el siguiente formulario para inscribirte en nuestras clases.</p>
+
+    <form id="inscripcion-form">
+        <label for="nombre">Nombre Completo:</label>
+        <input type="text" id="nombre" name="nombre" required>
+
+        <label for="correo">Correo Electrónico:</label>
+        <input type="email" id="correo" name="correo" required>
+
+        <label for="telefono">Teléfono:</label>
+        <input type="tel" id="telefono" name="telefono" required>
+
+        <label for="edad">Edad:</label>
+        <input type="number" id="edad" name="edad" required>
+<button type="submit">Enviar Inscripción</button>
+ </section>
+ <main class=""> 
+ <div class="card bg-dark py-3">
+   <i class="bi bi-whatsapp mx-auto icono pb-3"></i>
+   <div class="card-body d-flex flex-column aling-items-center">
+
+     <h5 class="card-title text-center pb-5">Whatsapp</h5>
+     <a href="https://api.Whatsapp.com/send?phone=67226090&text="hola class="btn btn-light enviarmensaje fw-bold">Enviar mensaje</a>
+       
+   </div>              
+ <footer class="footer">
+ 	<div class="footer-content container">
+ 		<div class="link">
+ 			<h3>Instrumentos</h3>
+ 			<ul>
+ 				<li><a href="#">Gitarra</a></li>
+ 				<li><a href="#">charango</a></li>
+ 				<li><a href="#">Piano</a></li>
+ 				<li><a href="#">Platillos</a></li>
+ 		    </ul>
+ 		</div>
+        <div class="link">
+ 			<h3>Instrumentos</h3>
+ 			<ul>
+ 				<li><a href="#">Zampoña</a></li>
+ 				<li><a href="#">Flauta</a></li>
+ 				<li><a href="#">Trompeta</a></li>
+ 				<li><a href="#">Saxofon</a></li>
+ 		    </ul>
+ 		</div>
+ 		<div class="link">
+ 			<h3>Instrumentos</h3>
+ 			<ul>
+ 				<li><a href="#">Arpa</a></li>
+ 				<li><a href="#">Teclado</a></li>
+ 				<li><a href="#">Ukelele</a></li>
+ 				<li><a href="#">Bajo</a></li>
+ 		    </ul>
+ 		</div>
+ 		<div class="link">
+ 			<h3>Instrumento</h3>
+ 			<ul>
+ 				<li><a href="#">Violin</a></li>
+ 				<li><a href="#">Saxofon</a></li>
+ 				<li><a href="#">Gitarra</a></li>
+ 				<li><a href="#">Percusion</a></li>
+ 		    </ul>
+ 		</div>
+ 	</div>
+ </footer>
+                                                                                                                                                                                                                                                                                            
+ </div>    			
+</body>
+</html>
